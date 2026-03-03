@@ -1,1 +1,94 @@
-# mobile-sales-dashboard
+
+# Mobile Sales Dashboard (Power BI Project)
+
+# Project Overview
+
+This project is an interactive **Mobile Sales Dashboard** built using **Microsoft Power BI**.
+The dashboard provides deep insights into mobile sales performance across different cities, brands, payment methods, and time periods.
+
+It helps analyze:
+
+* Total Sales Revenue
+* Total Transactions
+* Quantity Sold
+* Monthly Sales Trends
+* Brand Performance
+* Customer Ratings
+* Payment Method Distribution
+* City-wise Sales Performance
+
+---
+
+# Key Features
+
+✔ Interactive Filters (Brand, Mobile Model, Payment Method, Day Name)
+✔ KPI Cards (Total Sales, Transactions, Quantity)
+✔ City-wise Sales Map Visualization
+✔ Monthly Quantity Trend Line Chart
+✔ Payment Method Distribution (Pie Chart)
+✔ Customer Ratings Analysis
+✔ Brand-wise Sales Breakdown
+✔ Day-wise Sales Trend
+
+---
+
+# Tools & Technologies Used
+
+* Microsoft Power BI
+* Power Query (Data Cleaning & Transformation)
+* DAX (Data Analysis Expressions)
+* Excel Dataset
+
+---
+
+# Dataset
+
+The dataset includes:
+
+
+* Transaction ID
+* Brand
+* Mobile Model
+* City
+* Customer Age
+* Payment Method
+* Rating
+* Quantity
+* Price Per Unit
+* Total Sales
+* Date & Day Name
+
+---
+
+# Business Insights Generated
+
+* Identified top-performing brands by revenue.
+* Analyzed which cities generate maximum sales.
+* Determined most preferred payment method.
+* Found monthly sales trend patterns.
+* Analyzed customer satisfaction ratings.
+
+---
+
+## 🎯 Project Objective
+
+The objective of this dashboard is to simulate a real-world retail sales reporting system that helps management make data-driven decisions.
+
+---
+
+# Dashboard Preview
+
+![Dashboard Screenshot](screenshots/dashboard-overview.png)
+
+---
+
+
+# Author
+
+Shlok Kumar Singh
+B.Tech | Data Analyst Enthusiast
+Skilled in SQL | Power BI | Excel | DAX
+
+
+
+
