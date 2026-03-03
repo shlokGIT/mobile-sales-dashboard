@@ -70,18 +70,21 @@ The dataset includes:
 
 ---
 
-## 🎯 Project Objective
+#Project Objective
 
 The objective of this dashboard is to simulate a real-world retail sales reporting system that helps management make data-driven decisions.
 
 ---
 
-# Dashboard Preview
+# DAX Measures Used
 
-![Dashboard Screenshot](screenshots/dashboard-overview.png)
+- Total Sales = SUMX(Sales_Data,Sales_Data[units_sold] * Sales_Data[Price_Per_Unit])
+- Total Transactions = COUNTROWS(Sales_Data)
+- Total Quantity = SUM(Sales_Data[Price_Per_Unit])
+- Average  = AVERAGE(Sales_Data[Price_Per_Unit])
+
 
 ---
-
 
 # Author
 
