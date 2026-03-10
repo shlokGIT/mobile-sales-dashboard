@@ -60,7 +60,7 @@ The dataset includes:
 
 ---
 
-# Business Insights Generated
+# Business Insights 
 
 * Identified top-performing brands by revenue.
 * Analyzed which cities generate maximum sales.
@@ -77,11 +77,18 @@ The objective of this dashboard is to simulate a real-world retail sales reporti
 ---
 
 # DAX Measures Used
-
-- Total Sales = SUMX(Sales_Data,Sales_Data[units_sold] * Sales_Data[Price_Per_Unit])
+```
+Total Sales = SUMX(Sales_Data,Sales_Data[units_sold] * Sales_Data[Price_Per_Unit])
+```
+```
 - Total Transactions = COUNTROWS(Sales_Data)
+```
+```
 - Total Quantity = SUM(Sales_Data[Price_Per_Unit])
+```
+```
 - Average  = AVERAGE(Sales_Data[Price_Per_Unit])
+```
 
 
 ---
