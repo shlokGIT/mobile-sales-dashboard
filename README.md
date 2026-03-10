@@ -21,29 +21,38 @@ It helps analyze:
 
 # Key Features
 
-✔ Interactive Filters (Brand, Mobile Model, Payment Method, Day Name)
-✔ KPI Cards (Total Sales, Transactions, Quantity)
-✔ City-wise Sales Map Visualization
-✔ Monthly Quantity Trend Line Chart
-✔ Payment Method Distribution (Pie Chart)
-✔ Customer Ratings Analysis
-✔ Brand-wise Sales Breakdown
-✔ Day-wise Sales Trend
+ Interactive Filters (Brand, Mobile Model, Payment Method, Day Name)
+ 
+ KPI Cards (Total Sales, Transactions, Quantity)
+ 
+ City-wise Sales Map Visualization
+
+ Monthly Quantity Trend Line Chart
+ 
+ Payment Method Distribution (Pie Chart)
+ 
+ Customer Ratings Analysis
+ 
+ Brand-wise Sales Breakdown
+ 
+ Day-wise Sales Trend
 
 ---
 
 # Tools & Technologies Used
 
 * Microsoft Power BI
+ 
 * Power Query (Data Cleaning & Transformation)
+  
 * DAX (Data Analysis Expressions)
+  
 * Excel Dataset
 
 ---
 
 # Dataset
 
-The dataset includes:
 
 
 ![DATASET](https://github.com/shlokGIT/mobile-sales-dashboard/blob/main/Screenshot%20(413).png?raw=true)
@@ -53,9 +62,13 @@ The dataset includes:
 # Business Insights 
 
 * Identified top-performing brands by revenue.
+  
 * Analyzed which cities generate maximum sales.
+  
 * Determined most preferred payment method.
+  
 * Found monthly sales trend patterns.
+  
 * Analyzed customer satisfaction ratings.
 
 ---
