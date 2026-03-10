@@ -86,8 +86,10 @@ Total Sales = SUMX(Sales_Data,Sales_Data[units_sold] * Sales_Data[Price_Per_Unit
 # Author
 
 Shlok Kumar Singh
+
 B.Tech | Data Analyst Enthusiast
-Skilled in SQL | Power BI | Excel | DAX
+
+ SQL | Power BI | Excel | DAX
 
 
 
