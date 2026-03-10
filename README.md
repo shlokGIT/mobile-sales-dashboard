@@ -46,17 +46,7 @@ It helps analyze:
 The dataset includes:
 
 
-* Transaction ID
-* Brand
-* Mobile Model
-* City
-* Customer Age
-* Payment Method
-* Rating
-* Quantity
-* Price Per Unit
-* Total Sales
-* Date & Day Name
+![DATASET](https://github.com/shlokGIT/mobile-sales-dashboard/blob/main/Screenshot%20(413).png?raw=true)
 
 ---
 
